@@ -17,4 +17,5 @@ module.exports = (key, placeid, language) => {
     console.error(e)
     process.exit(1);
   }
+  // Test
 }
